@@ -1,0 +1,74 @@
+PODS:
+  - Alamofire (4.4.0)
+  - CarbonKit (2.1.9)
+  - Charts (3.0.2):
+    - Charts/Core (= 3.0.2)
+  - Charts/Core (3.0.2)
+  - ChartsRealm (3.0.2):
+    - Charts (~> 3.0.2)
+    - RealmSwift (~> 2.4)
+  - GoogleMaps (2.2.0):
+    - GoogleMaps/Maps (= 2.2.0)
+  - GoogleMaps/Base (2.2.0)
+  - GoogleMaps/Maps (2.2.0):
+    - GoogleMaps/Base
+  - GooglePlacePicker (2.2.0):
+    - GoogleMaps (= 2.2.0)
+    - GooglePlaces (= 2.2.0)
+  - GooglePlaces (2.2.0):
+    - GoogleMaps/Base (= 2.2.0)
+  - iCarousel (1.8.3)
+  - MBProgressHUD (1.0.0)
+  - PageMenu (2.0.0)
+  - Realm (2.7.0):
+    - Realm/Headers (= 2.7.0)
+  - Realm/Headers (2.7.0)
+  - RealmSwift (2.7.0):
+    - Realm (= 2.7.0)
+  - ScalingCarousel (1.0.3)
+  - SCLAlertView (0.7.0)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SVProgressHUD (2.1.2)
+  - Toast-Swift (2.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3)
+  - CarbonKit
+  - Charts
+  - ChartsRealm
+  - GoogleMaps
+  - GooglePlacePicker
+  - GooglePlaces
+  - iCarousel
+  - MBProgressHUD (~> 1.0.0)
+  - PageMenu
+  - ScalingCarousel
+  - SCLAlertView
+  - SDWebImage (~> 3.8)
+  - SVProgressHUD
+  - Toast-Swift (~> 2.0.0)
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  CarbonKit: af16a9c0d2b6c908a5985fe4633424d38c9bfc0a
+  Charts: 236d6ccdd0ce6feae151d89e829a7397381a21fd
+  ChartsRealm: ed0332fd409298188a2b71e9548604165c987d42
+  GoogleMaps: 104c418d61ab8a05dff06ed0784c25ea9d37da45
+  GooglePlacePicker: 345b1aabd42c9d6d9bf2369c1bae1234d903e764
+  GooglePlaces: bca867d5e9da15384c794b945e4226848bc6e9d9
+  iCarousel: d782f635afac190c49bb8ee455882284cff8b85f
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  PageMenu: 9c38fd7e0d9ef4b1408320f55bb907bbc0e538dc
+  Realm: 07e5d3a9e0e41d65fd5f9f05150ed6295d0f093b
+  RealmSwift: 6d06425d3900c86473c4f323bf6949b43fca22bc
+  ScalingCarousel: c1ce9b7f97c423614773328b762b5b723ed9ff7e
+  SCLAlertView: 8a14ffc40590c619e183eed2298b854385f30be1
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+  Toast-Swift: 5b2f8f720f7e78e48511f693df1f9c9a6e38a25a
+
+PODFILE CHECKSUM: e747cf2fdb6cf5407f62c2babafbbfabfbfc217b
+
+COCOAPODS: 1.2.0
